@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import './shared-css/styles/style1.scss'
+import './shared-scss/styles/style1.scss'
 
 const App = () => {
   return (

@@ -83,7 +83,3 @@ import MyComponent from './path-to-submodule/MyComponent';
 ```
 
 Ensure that your build configuration (like Webpack) is set up to include the submodule directory in the build process.
-
-### Summary
-
-Git submodules are a powerful way to manage dependencies between projects. By following these steps, you can efficiently add, update, and remove submodules in your React project, ensuring that you keep your codebase modular and maintainable.
